@@ -13,6 +13,6 @@ For installing pip on windows machine follow this tutorial: https://www.geeksfor
 1. Open the terminal
 2. Type ```git clone https://github.com/Rhliiit/spectrum_sensing``` to clone the repository to your local machine
 3. Type ```pip install -r requirements.txt```
-5. Type ```python generate_data.py``` to generate the train and test datasets
+5. Type ```python generate.py``` to generate the train and test datasets
 
 
